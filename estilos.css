@@ -1,0 +1,24 @@
+body-color {
+    background-color: rgb (199, 199, 255);
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.clase1 {
+    color: rgb (2, 99, 12);
+    font-style: italic;
+    font-style: bold;
+}
+
+.clase2 {
+    color: rgb (41, 109, 227)
+}
+
+.clase3 {
+    color: rgb (53, 30, 107)
+}
+
+.clase4 {
+    color: rgb (2, 99, 12);
+}
