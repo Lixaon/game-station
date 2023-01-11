@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(233, 232, 232);
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.clase1 {
+    color: #02630C;
+    font-style: italic;
+    font-style: bold;
+}
+
+.clase2 {
+    color: #02784F;
+}
+
+.clase3 {
+    color: #02630C;
+}
