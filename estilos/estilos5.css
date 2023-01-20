@@ -11,7 +11,7 @@ body {
 }
 
 .clase2 {
-    color: #02784F;
+    color: #04744c;
 }
 
 .clase3 {
@@ -42,13 +42,13 @@ a:link, a:visited, a:hover, a:active {
 #contenido {
     float:right;
     padding:10px;
-    height:700px;
+    height:540px;
     width:824px;
 }
   
 #menu {
     float:left;
-    height:700px;
+    height:540px;
     padding:10px;
     width:100px;
 }
